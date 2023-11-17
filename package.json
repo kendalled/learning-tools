@@ -15,7 +15,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@fontsource/inter": "^5.0.15"
+    "@fontsource/inter": "^5.0.15",
+    "@netlify/functions": "^2.4.0"
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.0.0",
