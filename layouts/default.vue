@@ -5,5 +5,3 @@
     <slot />
   </div>
 </template>
-
-<script async defer src="https://static.cdn.prismic.io/prismic.js?new=true&repo=learning-tools"></script>
